@@ -1,0 +1,39 @@
+.category-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:10px;
+}
+.job-list p{
+    font-size: 17px;
+    font-family: "Roboto";
+    text-align: justify;
+}
+span{
+    font-weight: bold;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+.card{
+    border-width: 1px;
+    height:10%;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    background-color: transparent;
+    margin: auto;
+    text-align: justify;
+    border-color: black;
+    background-color: #ffffff;
+}
+.card button{
+    width: fit-content;
+}
+.more-btn button{
+    justify-content:space-evenly;
+    margin:5px;
+}
+
+.btn-back{
+    text-align: left;
+    margin-right: auto;
+}
