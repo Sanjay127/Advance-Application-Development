@@ -1,0 +1,31 @@
+.bg-footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .footer-col {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .footer-col h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-col ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-col ul li {
+    margin-bottom: 5px;
+  }
+  
+  .icon-footer {
+    display: flex;
+  }
+  
+  .icon-footer a {
+    margin-right: 10px;
+    color: #333;
+  }
